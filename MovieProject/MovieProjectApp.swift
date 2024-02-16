@@ -2,7 +2,7 @@
 //  MovieProjectApp.swift
 //  MovieProject
 //
-//  Created by BJIT on 16/2/24.
+//  Created by Saruar Jahan on 16/2/24.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct MovieProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MovieListView()
         }
     }
 }
